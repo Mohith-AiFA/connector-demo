@@ -1,1 +1,1 @@
-# connector-demo
+# Connector gateway demo
